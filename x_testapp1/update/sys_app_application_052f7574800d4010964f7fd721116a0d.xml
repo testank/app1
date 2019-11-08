@@ -7,14 +7,14 @@
         <hint>testing app for source control</hint>
         <name/>
         <order/>
-        <roles>itil</roles>
+        <roles>itil,admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-08 21:12:10</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>052f7574800d4010964f7fd721116a0d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>testApp1</sys_name>
         <sys_overrides/>
         <sys_package display_value="testApp1" source="x_testapp1">c1fe7974800d4010964f7fd721116a43</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="testApp1">c1fe7974800d4010964f7fd721116a43</sys_scope>
         <sys_update_name>sys_app_application_052f7574800d4010964f7fd721116a0d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-08 21:12:10</sys_updated_on>
+        <sys_updated_on>2019-11-08 21:18:29</sys_updated_on>
         <title>testApp1</title>
         <view_name/>
     </sys_app_application>
