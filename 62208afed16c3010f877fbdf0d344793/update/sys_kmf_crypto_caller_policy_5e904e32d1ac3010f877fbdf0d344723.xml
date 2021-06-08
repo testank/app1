@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <crypto_module display_value="com_snc_core_automation_connection_credential_glideencrypter">550cd0b07722201099808d1168106121</crypto_module>
+        <crypto_spec/>
+        <instance_recipient/>
+        <owner>d8b1e99ea12030106565211639cc8ddd</owner>
+        <policy_name>AutoGen-allow-global.com_snc_core_automation_connection_credential_glideencrypter</policy_name>
+        <result>allow_apis</result>
+        <script_hash/>
+        <script_table/>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-06-08 18:28:27</sys_created_on>
+        <sys_id>5e904e32d1ac3010f877fbdf0d344723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AutoGen-allow-global.com_snc_core_automation_connection_credential_glideencrypter</sys_name>
+        <sys_package display_value="test" source="x_snc_test">62208afed16c3010f877fbdf0d344793</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">62208afed16c3010f877fbdf0d344793</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_5e904e32d1ac3010f877fbdf0d344723</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2021-06-08 18:28:27</sys_updated_on>
+        <target_role/>
+        <target_scope/>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
